@@ -1,0 +1,17 @@
+flask
+celery
+pika
+psycopg2-binary
+SQLAlchemy>=2
+requests
+alembic
+flask
+celery
+pika
+psycopg2-binary
+SQLAlchemy>=2
+requests
+alembic
+pandas
+joblib
+scikit-learn
